@@ -1,0 +1,30 @@
+for (( a=5; a<=10; a++ ))
+do
+   if [ $a -gt 5 ]
+   then
+       echo "It Works"
+   else
+       echo "It failing"
+   fi
+done
+
+
+Mentors CodInClub8:00 AM
+Use Cases :-
+1. Create a New Directory as “stage1_review”
+2. Get inside a directory & Create multiple files such as
+* Add.java
+* Sub.js 
+*Multiply.py
+*Division.cs
+Finally Create a shell script file for your logic execution as “day4.sh”
+3.Cut or move a file & paste into specific folder/directory 
+Expected Result:-
+Add/java/Add.java
+Sub/js/Sub.js
+Multiply/py/Multiply.py
+Division/cs/Division.cs
+*****Make sure Needs to create sub-folder as your file extension name*****
+nandhak907@gmail.com
+Awinash khare8:02 AM
+Okay sir
